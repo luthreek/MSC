@@ -1,0 +1,12 @@
+h1,h2 {
+    color: white;
+    background-color: black;
+}
+.page {
+    margin: 53px ;
+    padding-left:  65px;
+}
+.link {
+    padding-left: 20px;
+    font-weight: bold;
+}
